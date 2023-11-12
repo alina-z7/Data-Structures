@@ -1,4 +1,4 @@
-# Data Structures - Completed Student Repository
+# COMP 271: Data Structures - Student Repository
 
 ## Course Information
 ### General Information
