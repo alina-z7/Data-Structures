@@ -1,3 +1,4 @@
+package lists;
 public class Move {
     Peg source;
     Peg target;

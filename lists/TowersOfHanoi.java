@@ -1,3 +1,4 @@
+package lists;
 import java.util.LinkedList;
 import java.util.List;
 public class TowersOfHanoi { //game class called towers of hanoi

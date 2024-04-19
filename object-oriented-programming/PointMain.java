@@ -1,3 +1,4 @@
+package oop;
 // A program that deals with 2D points.
 // Fifth version, to accompany Point class with toString method.
 

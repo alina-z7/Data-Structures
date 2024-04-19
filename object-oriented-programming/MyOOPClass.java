@@ -1,3 +1,4 @@
+package oop;
 public class MyOOPClass extends AnotherClass implements Comparable<MyOOPClass>  {
     private String name;
     public MyOOPClass(String n) {

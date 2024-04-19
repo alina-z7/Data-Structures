@@ -1,3 +1,4 @@
+package lists;
 import javax.swing.*;
 
 public class JListExample {
